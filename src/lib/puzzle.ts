@@ -10,7 +10,7 @@ export class Puzzle {
     this.logger = logger;
   }
 
-  public async getPuzzle(): Promise<string> {
+  public async getPuzzle(): Promise<string[]> {
     //--------------- Get the data from the server
     this.logger.log('Requesting data from the codingquest server...');
 
@@ -18,7 +18,7 @@ export class Puzzle {
       'https://codingquest.io/api/puzzledata?puzzle=' + this.id
     );
 
-    return data;
+    return data.split('\n');
   }
 }
 

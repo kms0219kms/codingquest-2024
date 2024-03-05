@@ -15,7 +15,7 @@ import {Logger, Puzzle} from './lib';
   // ];
 
   // Real Data
-  const packetRaw: string[] = (await puzzle.getPuzzle()).split('\n');
+  const packetRaw: string[] = await puzzle.getPuzzle();
 
   //--------------- Process the data
   logger.log('Processing data...');

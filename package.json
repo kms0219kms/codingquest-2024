@@ -6,7 +6,15 @@
     "fix": "gts fix",
     "lint": "gts lint",
     "clean": "gts clean",
-    "start:02": "tsup src/02.ts --out-dir dist; node dist/02.js"
+    "start:02": "tsup src/02.ts; node dist/02.js",
+    "start:03": "tsup src/03.ts; node dist/03.js",
+    "start:04": "tsup src/04.ts; node dist/04.js",
+    "start:05": "tsup src/05.ts; node dist/05.js",
+    "start:06": "tsup src/06.ts; node dist/06.js",
+    "start:07": "tsup src/07.ts; node dist/07.js",
+    "start:08": "tsup src/08.ts; node dist/08.js",
+    "start:09": "tsup src/09.ts; node dist/09.js",
+    "start:10": "tsup src/10.ts; node dist/10.js"
   },
   "dependencies": {
     "axios": "^1.6.7"
