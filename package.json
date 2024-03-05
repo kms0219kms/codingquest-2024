@@ -1,0 +1,21 @@
+{
+  "name": "codingquest-2024",
+  "description": "Coding Quest 2024",
+  "author": "Minsu Kim <minsu_kim@bishanoi.net>",
+  "scripts": {
+    "fix": "gts fix",
+    "lint": "gts lint",
+    "clean": "gts clean",
+    "start:02": "tsup src/02.ts --out-dir dist; node dist/02.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "20.8.2",
+    "gts": "^5.2.0",
+    "tsup": "^8.0.2",
+    "typescript": "~5.2.0"
+  },
+  "packageManager": "yarn@4.1.1"
+}
