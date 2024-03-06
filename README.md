@@ -9,8 +9,8 @@ The challenges are solved by: Minsu Kim ([minsu_kim@bishanoi.net](mailto:minsu_k
 
 - Purchase tickets: Solved on 4 March 2024. (Code is private.)
 - [Broken firewall](./src/02.ts): Solved on 5 March 2024.
+- [Hotel door code](./src/03.ts): Solved on March 6, 2024.
 <!--
-- [](./src/03.ts): Solved on March 6, 2024.
 - [](./src/04.ts): Solved on 7 March 2024.
 - [](./src/05.ts): Solved on 8 March 2024.
 - [](./src/06.ts): Solved on 11 March 2024.
