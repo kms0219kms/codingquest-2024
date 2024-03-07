@@ -7,7 +7,7 @@ The challenges are solved by: Minsu Kim ([minsu_kim@bishanoi.net](mailto:minsu_k
 
 ### Challenges
 
-- Purchase tickets: Solved on March 4, 2024. (Code is private.)
+- [Purchase tickets](./src/01.ts): Solved on March 4, 2024.
 - [Broken firewall](./src/02.ts): Solved on March 5, 2024.
 - [Hotel door code](./src/03.ts): Solved on March 6, 2024.
 - [Closest star systems](./src/04.ts): Solved on March 7, 2024.

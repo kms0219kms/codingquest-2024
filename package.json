@@ -6,6 +6,7 @@
     "fix": "gts fix",
     "lint": "gts lint",
     "clean": "gts clean",
+    "start:01": "tsup src/01.ts; node dist/01.js",
     "start:02": "tsup src/02.ts; node dist/02.js",
     "start:03": "tsup src/03.ts; node dist/03.js",
     "start:04": "tsup src/04.ts; node dist/04.js",
