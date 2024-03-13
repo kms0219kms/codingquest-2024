@@ -13,8 +13,8 @@ The challenges are solved by: Minsu Kim ([minsu_kim@bishanoi.net](mailto:minsu_k
 - [Closest star systems](./src/04.ts): Solved on March 7, 2024.
 - [Busy moon rovers](./src/05.ts): Solved on March 8, 2024.
 - [Time to play fair](./src/06.ts): Solved on March 11, 2024.
+- [The purge](./src/07.ts): Solved on March 13, 2024. (Taken 1 day)
 <!--
-- [](./src/07.ts): Solved on March 12, 2024.
 - [](./src/08.ts): Solved on March 13, 2024.
 - [](./src/09.ts): Solved on March 14, 2024.
 - [](./src/10.ts): Solved on March 15, 2024.
